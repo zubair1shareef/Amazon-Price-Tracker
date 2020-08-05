@@ -7,7 +7,7 @@ Then it will generate a JSON report having all the details containing the **pric
 
 * Install all the required libraries using the pip command : 
 
-`pip install -r requirements.txt`
+`pip install -r requirements.txt
 
 * Download the latest Chrome WebDriver from [here](https://chromedriver.chromium.org/downloads)
 
